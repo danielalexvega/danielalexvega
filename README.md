@@ -1,5 +1,5 @@
 # Hello, I'm Daniel :call_me_hand:
-##  *A former High School math/computer science teacher :man_teacher: turned JS Developer
+##  *A former High School math/computer science teacher :man_teacher: turned JS Developer*
 ### Now I'm an associate software developer :computer: at Pearson. I work in automation, specifically in Java and Selenium. I'm also working on getting certified as an AWS Developer.
 
 #### I'm currently interested in the following things:
