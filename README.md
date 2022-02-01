@@ -2,6 +2,8 @@
 ##  *A former High School math/computer science teacher :man_teacher: turned JS Developer*
 ### Now I'm an associate software developer :computer: at Pearson. I work in automation, specifically in Java and Selenium. I'm also working on getting certified as an AWS Developer.
 
+ ### In my short career, I've worked on codebases in Java, JavaScript, PHP, SCSS, CSS, HTML, REACT, Gatsby, and TypeScript. 
+
 #### I'm currently interested in the following things:
 - Coding **Matek**, a MERN project that will serve as a database for high school math problems. This is my main goal for 2022. 
 - Practicing my Gatsby skills by making a photography site for my brother.
