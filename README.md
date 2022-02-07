@@ -17,8 +17,8 @@ I love to meet people. I love music and sports, and movies, and basically everyt
 ⚡ Fun facts about me:
 - I taught highschool math for 7 years in Austin, Texas. My first four years were at alternative school for students who are removed from their home campus. It was an extremely challenging and rewarding job, and I miss teaching and learning from those students. They taught me how to be patient, and how to focus on building relationships. The last 3 years teaching was at McCallum Highschool, the fine arts academy in Austin. While there I also taught AP Computer Science and coached Soccer :soccer: for 2 years. 
 - I've been in bands pretty consistently since high school. By a rough count, I've been in about 8 bands. I've played shows all over Texas and the East coast, and my favorite places to play have been Austin, New York City, Providence, Washington D.C., and North Carolina. I play most instruments, but drums 🥁 are my main passion. 
--I earned my undergraduate in Sound Recording Technology from Texas State, and earned my masters in STEM Education from the University of Texas 🤘. In 2020, I completed a Full Stack bootcamp from UT, and also was a TA for another session after finishing. 
--In January '21, I started working full time as a Web Developer at Standard Beagle, focusing on building sites with HTML, CSS, JS, and PHP. 
+- I earned my undergraduate in Sound Recording Technology from Texas State, and earned my masters in STEM Education from the University of Texas 🤘. In 2020, I completed a Full Stack bootcamp from UT, and also was a TA for another session after finishing. 
+- In January '21, I started working full time as a Web Developer at Standard Beagle, focusing on building sites with HTML, CSS, JS, and PHP. 
 
 <!--
 **danielalexvega/danielalexvega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
